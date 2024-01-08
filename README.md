@@ -1,0 +1,5 @@
+Dimension Data[SubCategories.xlsx](https://github.com/Krishna-9346/Power-bi-Projects/files/13859859/SubCategories.xlsx)
+[SalesRep.xlsx](https://github.com/Krishna-9346/Power-bi-Projects/files/13859858/SalesRep.xlsx)
+[Product.csv](https://github.com/Krishna-9346/Power-bi-Projects/files/13859857/Product.csv)
+[Geography.xlsx](https://github.com/Krishna-9346/Power-bi-Projects/files/13859856/Geography.xlsx)
+[Categories.xlsx](https://github.com/Krishna-9346/Power-bi-Projects/files/13859854/Categories.xlsx)
