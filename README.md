@@ -1,3 +1,8 @@
+Sales_data and Dimension_data [SubCategories.xlsx](https://github.com/Krishna-9346/Power-bi-Projects/files/13859898/SubCategories.xlsx)
+[SalesRep.xlsx](https://github.com/Krishna-9346/Power-bi-Projects/files/13859897/SalesRep.xlsx)
+[Product.csv](https://github.com/Krishna-9346/Power-bi-Projects/files/13859896/Product.csv)
+[Geography.xlsx](https://github.com/Krishna-9346/Power-bi-Projects/files/13859894/Geography.xlsx)
+[Categories.xlsx](https://github.com/Krishna-9346/Power-bi-Projects/files/13859893/Categories.xlsx)
 Sales Data[sales 2017.csv](https://github.com/Krishna-9346/Power-bi-Projects/files/13859879/sales.2017.csv)
 [sales 2016.csv](https://github.com/Krishna-9346/Power-bi-Projects/files/13859878/sales.2016.csv)
 [sales 2015.csv](https://github.com/Krishna-9346/Power-bi-Projects/files/13859877/sales.2015.csv)
